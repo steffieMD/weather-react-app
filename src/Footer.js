@@ -39,7 +39,7 @@ export default function Footer() {
         >
           hosted on{" "}
           <a
-            href="https://sparkly-sopapillas-ffd2f6.netlify.app/"
+            href="https://react-weather-app-steff.netlify.app/"
             rel="noreferrer"
           >
             Netlify
